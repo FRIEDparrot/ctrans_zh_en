@@ -4,8 +4,12 @@
 This is a useful script for translate the comment in c(or c++) code from Chinese to English in batch!
 
 firstly, python3 and following package is needed:
-```python
+```bash
 pip install  translators 
+```
+it will convert all Chinese comment of .c, .cpp or .h file in the same directory of this script with a simple run:
+```bash
+python trans.py
 ```
 
 
