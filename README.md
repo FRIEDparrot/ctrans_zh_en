@@ -13,7 +13,7 @@ python trans.py
 ```
 
 - **hint** :
-you may also open the file in different encoding method, switch it in script by changing variable `open_encoding` (gbk or utf-8 is mostly used). also, set `dst_decoding` to `utf-8` is recommended.
+you may also open the file in different encoding method, switch it in script by changing variable `open_encoding` (gbk or utf-8 is mostly used). also, setting `dst_decoding` to `utf-8` is recommended.
 
 ### Supported Comment Types for Translation
 **Reminder:** back up your files before translating! If there are issues with the network or other problems during translation, files may be lost. So, make sure to back up first!
